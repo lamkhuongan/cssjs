@@ -111,7 +111,7 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="https://docs.google.com/forms/d/e/1FAIpQLSfGeaX1aVZrhwUyfk-RW5McbMR4NxcLlZOH3gAwLDReT5urZg/formResponse";
+var urlform="https://docs.google.com/forms/d/1IC43FN3YtCuR_wwuSCAWZZ64KUBuTTLiHjQgJbTsckE/formResponse";
 var urlchuyen=window.location.href;
 var hovaten="2126292241";
 var dienthoai="4716317";
@@ -119,7 +119,7 @@ var email="740102161";
 var duan="1009287285";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
-var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
+var titleheader="ĐĂNG KÝ NHẬN ƯU ĐÃI";
 var hotline="0936515251";
 var linkhientai=window.location.href;
 var thoigianhien=120000;
@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://canhobienthanhlongbay.blogspot.com/";
+	window.location="http://tdbatdongsan.com.vn/du-an-aqua-city-dong-nai/";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
