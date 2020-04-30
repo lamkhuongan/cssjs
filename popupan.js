@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://canhobienthanhlongbay.blogspot.com/';
+	var url_popup = 'http://tdbatdongsan.com.vn/du-an-aqua-city-dong-nai/';
 
       //<![CDATA[
-	  // var url_ppp = 'http://bit.ly/1KmPNYe';
+	  // var url_ppp = 'http://tdbatdongsan.com.vn';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
